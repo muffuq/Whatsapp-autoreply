@@ -2,7 +2,7 @@
 
 ## About The Project
 
-It automatically replies to messages from Whatsapp for you. Responds to a person at most once. Does not send messages to groups.
+It automatically replies to messages from Whatsapp. It responds to a person just one time at once . Does not send messages to groups.
 
 ### Installation
 
