@@ -17,5 +17,5 @@ node index.js
 
 ## Usage
 
-1. Open WhatsApp on your phone, select 'WhatsApp Web' from the settings menu, then scan the provided QR code:
+1. Open WhatsApp on your phone, select 'WhatsApp Web' from the settings menu, then scan the provided QR code.
 4. Sit back and watch the bot automatically respond to messages from your contacts.
