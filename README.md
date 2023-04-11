@@ -10,7 +10,7 @@ It automatically replies to messages from Whatsapp for you. Responds to a person
 ```sh
 npm install
 ```
-3. We run the index.js file:
+2. We run the index.js file:
 ```sh
 node index.js
 ```
